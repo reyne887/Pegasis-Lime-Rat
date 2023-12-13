@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pegasis Lime Rat", "Pegasis Lime Rat.csproj", "{119028CF-5115-4D61-B94A-57A269477155}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Pegasus RAT", "..\Pegasus RAT\Pegasus RAT.vbproj", "{BE2A0965-F04E-4E6B-982A-40CA0F65253C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119028CF-5115-4D61-B94A-57A269477155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119028CF-5115-4D61-B94A-57A269477155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119028CF-5115-4D61-B94A-57A269477155}.Debug|ARM32.ActiveCfg = Debug|ARM32
+		{119028CF-5115-4D61-B94A-57A269477155}.Debug|ARM32.Build.0 = Debug|ARM32
+		{119028CF-5115-4D61-B94A-57A269477155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119028CF-5115-4D61-B94A-57A269477155}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119028CF-5115-4D61-B94A-57A269477155}.Release|ARM32.ActiveCfg = Release|ARM32
+		{119028CF-5115-4D61-B94A-57A269477155}.Release|ARM32.Build.0 = Release|ARM32
+		{BE2A0965-F04E-4E6B-982A-40CA0F65253C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2A0965-F04E-4E6B-982A-40CA0F65253C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2A0965-F04E-4E6B-982A-40CA0F65253C}.Debug|ARM32.ActiveCfg = Debug|ARM32
+		{BE2A0965-F04E-4E6B-982A-40CA0F65253C}.Debug|ARM32.Build.0 = Debug|ARM32
+		{BE2A0965-F04E-4E6B-982A-40CA0F65253C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2A0965-F04E-4E6B-982A-40CA0F65253C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2A0965-F04E-4E6B-982A-40CA0F65253C}.Release|ARM32.ActiveCfg = Release|ARM32
+		{BE2A0965-F04E-4E6B-982A-40CA0F65253C}.Release|ARM32.Build.0 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F0CBBCF-DC35-424F-B869-B8C2F5AC496E}
+	EndGlobalSection
+EndGlobal
